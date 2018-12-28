@@ -1,0 +1,4 @@
+/* sembunyikan judul */
+.page-header h1 {
+    display: none;
+}
